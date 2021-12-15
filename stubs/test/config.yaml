@@ -1,0 +1,5 @@
+name: test
+baseUrl: http://localhost:4400
+entryFile: stub.js
+middleware:
+  - person

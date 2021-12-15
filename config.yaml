@@ -1,0 +1,6 @@
+core:
+  stubs:
+    dir: "stubs" # the name of the folder to store all downloaded stubs
+    local: "ALWAYS" # Determines download pattern. "ALWAYS", "IF AVAILABLE", "NEVER"
+stubs:
+  - "basic"
